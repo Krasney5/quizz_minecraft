@@ -14,6 +14,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/menuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/GameButtonMenager.cs" />
       </list>
     </option>
   </component>
@@ -58,7 +59,9 @@
       <updated>1692535727571</updated>
       <workItem from="1692535731420" duration="697000" />
       <workItem from="1692537762237" duration="131000" />
-      <workItem from="1693211438581" duration="1133000" />
+      <workItem from="1693211438581" duration="1173000" />
+      <workItem from="1693321255701" duration="15000" />
+      <workItem from="1693328509233" duration="1022000" />
     </task>
     <servers />
   </component>

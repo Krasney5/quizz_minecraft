@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/EzLvl.unity
     guid: 2847e6b130fe62e45a5d1b387199df8a
+  - enabled: 1
+    path: Assets/Scenes/lvl/HardLvl.unity
+    guid: 02ffbfc6cdbe12f40a8fba62c772fd27
+  - enabled: 1
+    path: Assets/Scenes/lvl/MidLvl.unity
+    guid: ad214a10b2f074244b4d8b453202e5dc
   - enabled: 1
     path: Assets/Scenes/winscreen.unity
     guid: e15c0ad0477314e458721badf9d481de

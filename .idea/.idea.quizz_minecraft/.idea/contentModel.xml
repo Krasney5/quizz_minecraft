@@ -6,7 +6,10 @@
     <e p="D:\repositorii\quizz_minecraft" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scenes" t="Include" />
+        <e p="animacion" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="lvl" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="GameButtonMenager.cs" t="Include" />
           <e p="menuButton.cs" t="Include" />

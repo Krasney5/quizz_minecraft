@@ -23,20 +23,20 @@ public class menuButton : MonoBehaviour
         }
     }
 
-    public void ezLvl()
+    public void EzLvlLoad()
     {
-        SceneManager.LoadScene(EzLvl);
+        SceneManager.LoadScene("EzLvl");
     }
     
     
-    public void midLvl()
+    public void MidLvlLoad()
     {
-        SceneManager.LoadScene(MidLvl);
+        SceneManager.LoadScene("MidLvl");
     }
     
     
-    public void hardLvl()
+    public void HardLvlLoad()
     {
-        SceneManager.LoadScene(HardLvl);
+        SceneManager.LoadScene("HardLvl");
     }
 }

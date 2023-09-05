@@ -18,9 +18,11 @@ public class GameButtonMenager : MonoBehaviour
         if (questionsNumber == questions.Length)
         {
             SceneManager.LoadScene("winscreen");
+            return;
         }
         questions[questionsNumber].SetActive(true);
     }
+    
     public void ClickingOnTheNoCorrectAnswer()
     {
         SceneManager.LoadScene("losescreen");
