@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/EzLvl.unity
+    path: Assets/Scenes/lvl/EzLvl.unity
     guid: 2847e6b130fe62e45a5d1b387199df8a
   - enabled: 1
     path: Assets/Scenes/lvl/HardLvl.unity
